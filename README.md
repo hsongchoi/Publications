@@ -9,6 +9,6 @@
 
 ## Index
 
-* [Index Funs and Exchange Traded Funds; Substitutability and Reasons for the Coexistence](#deep-learning)
-    * [tensorflow](#tensor-flow-tutorials)
-    * [theano](#theano-tutorials)
+* [Index Funds and Exchange Traded Funds; Substitutability and Reasons for the Coexistence](#indexfunds)
+    * [Abstract](#abstract)
+* [EQUITY DURATION PUZZLE AND INVESTORS' DEMANDS: EVIDENCE FROM KOREA](#equityduration)
