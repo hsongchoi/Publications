@@ -1,6 +1,14 @@
-## Publication
+# Publication
 
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [tsf-basics](https://github.com/hsongchoi/Publications/tree/master/Index-Funds-and-ETFs) | Learn basic operations in TensorFlow, a library for various kinds of perceptual and language understanding tasks from Google. |
+| [Index-Funds-and-ETFs](https://github.com/hsongchoi/Publications/tree/master/Index-Funds-and-ETFs) | Studied the substitutability and reasons for the coexistence of two similar investment vehicles, conventional index funds and exchange traded funds (ETFs), in the Korean market. |
+
+
+
+## Index
+
+* [Index Funs and Exchange Traded Funds; Substitutability and Reasons for the Coexistence](#deep-learning)
+    * [tensorflow](#tensor-flow-tutorials)
+    * [theano](#theano-tutorials)
